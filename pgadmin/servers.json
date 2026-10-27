@@ -1,0 +1,13 @@
+{
+  "Servers": {
+    "1": {
+      "Name": "Provider DB",
+      "Group": "Servers",
+      "Host": "db",
+      "Port": 5432,
+      "MaintenanceDB": "provider_db",
+      "Username": "provider_user",
+      "SSLMode": "prefer"
+    }
+  }
+}
